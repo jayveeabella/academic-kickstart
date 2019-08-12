@@ -17,11 +17,9 @@ organizations:
 - name: jayvee.r.abella@gmail.com
 - name: Rice University
   url: ""
-- name: Kavraki Lab
-  url: "kavrakilab.org"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include ...
+#bio: My research interests include 
 
 interests:
 - Structural Bioinformatics
