@@ -55,6 +55,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/jayveeabella
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/jayvee-abella-13055699/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -71,10 +74,5 @@ user_groups:
 - Visitors
 ---
 
-Jayvee Abella is a PhD student in computer science at Rice University. ...
-
-...
-
-...
-
+Jayvee Abella is a PhD student in Computer Science at Rice University. His advisors are Prof. Lydia Kavraki and Prof. Cecilia Clementi. His work focuses mainly on the computational modeling, simulation, and analysis of proteins and their structure and dynamics. Jayvee's passion lies in providing informatics and data science solutions to biomedical problems. 
 
