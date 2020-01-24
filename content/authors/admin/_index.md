@@ -30,7 +30,7 @@ education:
   courses:
   - course: PhD in Computer Science
     institution: Rice University
-    year: 2019
+    year: 2020
   - course: MS in Computer Science
     institution: Rice University
     year: 2016
