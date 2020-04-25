@@ -14,8 +14,9 @@ role: Associate Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: jayvee.r.abella@gmail.com
+- name: jayvee.abella@michealthcare.com
 - name: Medical Informatics Corp
+- name: jayvee.r.abella@gmail.com
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
