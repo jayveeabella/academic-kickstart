@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate<br> in Computer Science
+role: Associate Researcher
 
 # Organizations/Affiliations
 organizations:
 - name: jayvee.r.abella@gmail.com
-- name: Rice University
+- name: Medical Informatics Corp
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -74,5 +74,5 @@ user_groups:
 - Visitors
 ---
 
-Jayvee Abella is a PhD student in Computer Science at Rice University. His advisors are Prof. Lydia Kavraki and Prof. Cecilia Clementi. His work focuses mainly on the computational modeling, simulation, and analysis of proteins and their structure and dynamics. Jayvee's passion lies in providing informatics and data science solutions to biomedical problems. 
+Jayvee Abella is currently an Associate Researcher for Medical Informatics Corp, where he is using machine learning to turn data into clinical insight. He received his PhD in Computer Science at Rice University under Prof. Lydia Kavraki and Prof. Cecilia Clementi. His thesis focused mainly on the computational modeling, simulation, and analysis of proteins and their structure and dynamics. Jayvee's passion lies in providing informatics and data science solutions to biomedical problems. 
 
