@@ -10,7 +10,7 @@ authors:
 - Gregory Lizee
 - Lydia Kavraki
 date: "2020-07-01T00:00:00Z"
-doi: "10.1115/1.4023383"
+doi: "10.1200/CCI.19.00123"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -38,8 +38,8 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ""
-url_code: ""
+url_pdf: "https://ascopubs.org/doi/abs/10.1200/CCI.19.00123"
+url_code: "https://github.com/KavrakiLab/hla-arena"
 url_dataset: ''
 url_poster: ''
 url_project: ''
