@@ -38,7 +38,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: "https://ascopubs.org/doi/abs/10.1200/CCI.19.00123"
+url_pdf: "https://ascopubs.org/doi/pdfdirect/10.1200/CCI.19.00123"
 url_code: "https://github.com/KavrakiLab/hla-arena"
 url_dataset: ''
 url_poster: ''

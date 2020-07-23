@@ -6,7 +6,7 @@ authors:
 - Mark Moll
 - Lydia Kavraki
 date: "2018-01-01T00:00:00Z"
-doi: "10.3390/molecules24050881"
+doi: "10.1089/cmb.2017.0164"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
