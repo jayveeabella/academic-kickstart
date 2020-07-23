@@ -38,7 +38,7 @@ height = "600px"
 
 [[item]]
   title = "Adaptive Sampling for Simulation of Proteins"
-  content = "Sampling rare events with Molecular Dynamics can be accelerated with adaptive sampling methods, which use machine learning to automatically determine a bias that can speed up the exploration of the simulation. I have experience with the analysis of these methods, and I am currently applying them to study peptide binding with MHCs."
+  content = "Sampling rare events with Molecular Dynamics can be accelerated with adaptive sampling methods, which use machine learning to automatically determine a bias that can speed up the exploration of the simulation. I have experience with the analysis of these methods, and I have applied them to study peptide binding with MHCs."
   align = "left"
 
   overlay_color = "#555"  # An HTML color value.
@@ -47,10 +47,10 @@ height = "600px"
 
 [[item]]
   title = "Machine Learning on Structural Data"
-  content = "I am currently developing a deep Convolutional Neural Network to predict binding affinity of peptide-MHC complexes based on structures produced from APE-Gen. In collaboration with Daniel Bao (University of Houston). Feature image credits: Aphex34 (Wikimedia Commons)"
+  content = "I have developed a random forests model with the ability to perform large-scale structure-Based prediction of stable peptide binding to Class I HLAs."
   align = "left"
 
   overlay_color = "#333"  # An HTML color value.
-  overlay_img = "cnn.png"  # Image path relative to your `static/img/` folder.
+  overlay_img = "rf_classifier.png"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 +++
