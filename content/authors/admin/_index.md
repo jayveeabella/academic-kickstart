@@ -14,8 +14,8 @@ role: Associate Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: jayvee.abella@michealthcare.com
-- name: Medical Informatics Corp
+- name: jayvee.abella@mercuryds.com
+- name: Mercury Data Science
 - name: jayvee.r.abella@gmail.com
   url: ""
 
@@ -75,5 +75,5 @@ user_groups:
 - Visitors
 ---
 
-Jayvee Abella is currently an Associate Researcher for Medical Informatics Corp, where he is using machine learning to turn data into clinical insight. He received his PhD in Computer Science at Rice University under Prof. Lydia Kavraki and Prof. Cecilia Clementi. His thesis focused mainly on the computational modeling, simulation, and analysis of proteins and their structure and dynamics. Jayvee's passion lies in providing informatics and data science solutions to biomedical problems. 
+Jayvee Abella is currently a Senior Data Scientist for Mercury Data Science. He received his PhD in Computer Science at Rice University under Prof. Lydia Kavraki and Prof. Cecilia Clementi. His thesis focused mainly on the computational modeling, simulation, and analysis of proteins and their structure and dynamics. Jayvee's passion lies in providing informatics and data science solutions to biomedical problems. 
 
