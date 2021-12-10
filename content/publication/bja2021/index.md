@@ -8,7 +8,7 @@ authors:
 - Domagoj Mladinov
 - Dan Berkowitz
 date: "2021-12-03T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1016/j.bja.2021.10.035"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -20,7 +20,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "British Journal of Anaesthesia (To Appear)"
+publication: "British Journal of Anaesthesia"
 publication_short: ""
 
 abstract: "In this feasibility study we show the feasibility of automatic intraoperative near-infrared spectroscopy (NIRS) and arterial BP (ABP) monitoring for calculation of cerebral autoregulation lower and upper limits and optimal ABP (the ABP with the most robust autoregulation) for a given number of patients. This retrospective feasibility study included 55 patients who underwent off-pump coronary artery bypass graft in January and February 2021 at our institution (IRB# 300005436, University of Alabama at Birmingham). It is known that time spent outside lower and upper limits of autoregulation is associated with post-procedure morbidity, and increases the risk of organ injury and dysfunction in cardiac surgery. 1 ,2 Automated calculation and quality checks of these parameters in real time at multiple sites may improve clinical practice, and impact intraoperative goal-directed haemodynamic management. A first step is demonstrating the feasibility of an automated workflow. Therefore, we considered the fraction of quality (i.e. meeting the specifications defined by Aries and colleagues 3 ) cerebral autoregulation curves across all patients as our main outcome measure, and secondarily calculated mean and standard deviation for lower and upper limits of autoregulation and optimal ABP." 
