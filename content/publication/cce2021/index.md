@@ -28,7 +28,21 @@ publication_types: ["2"]
 publication: "Critical Care Explorations"
 publication_short: ""
 
-abstract: "" 
+abstract: "OBJECTIVES: 
+
+Although there is a substantial published experience of extracorporeal membrane oxygenation during the H1N1 pandemic, less is known about the use of extracorporeal membrane oxygenation in patients with other subtypes of the influenza A virus. We hypothesized that the severity of illness and survival of patients supported with extracorporeal membrane oxygenation would differ for those with H1N1 influenza A compared with other subtypes of influenza A.
+
+DESIGN, SETTING, PATIENTS: 
+
+Retrospective study of extracorporeal membrane oxygenation–supported adults (> 18 yr) with influenza A viral infection reported to the Extracorporeal Life Support Organization Registry between 2009 and 2019. We describe the frequency and compare characteristics and factors associated with in-hospital survival using a least absolute shrinkage and selection operator regression analysis.
+
+MAIN OUTCOMES AND MEASURES: 
+
+Of 2,461 patients supported with extracorporeal membrane oxygenation for influenza A, 445 had H1N1, and 2,004 had other subtypes of influenza A. H1N1 was the predominant subtype between 2009 and 2011. H1N1 patients were younger, with more severe illness at extracorporeal membrane oxygenation cannulation and higher reported extracorporeal membrane oxygenation complications than those with other influenza A subtypes. Patient characteristics including younger age and higher weight and patient management characteristics including longer ventilation duration before extracorporeal membrane oxygenation were associated with worse survival. Extracorporeal membrane oxygenation complications were associated with reduced survival. There was no difference in survival to hospital discharge according to influenza subtype after adjusting for other characteristics.
+
+CONCLUSIONS: 
+
+Patients supported with extracorporeal membrane oxygenation for H1N1 were younger, with more severe illness than those supported for other influenza A subtypes. Survival to hospital discharge was associated with patient characteristics, management characteristics, and extracorporeal membrane oxygenation complications but was not impacted by the specific influenza A subtype." 
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
