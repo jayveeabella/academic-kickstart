@@ -12,8 +12,8 @@ authors:
 - Graeme MacLaren
 - Marc Anders
 - Peta Alexander
-date: "2021-11-01T00:00:00Z"
-doi: ""
+date: "2021-12-13T00:00:00Z"
+doi: "10.1097/CCE.0000000000000598"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -25,7 +25,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Critical Care Explorations (To Appear)"
+publication: "Critical Care Explorations"
 publication_short: ""
 
 abstract: "" 
@@ -41,7 +41,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: "https://assets.researchsquare.com/files/rs-647294/v1/e0677fcd-9ac0-410b-ac48-f0659d956e55.pdf?c=1631885462"
+url_pdf: "https://journals.lww.com/ccejournal/Fulltext/2021/12000/Extracorporeal_Membrane_Oxygenation_Support_for.14.aspx?context=LatestArticles"
 url_code: ""
 url_dataset: ''
 url_poster: ''
