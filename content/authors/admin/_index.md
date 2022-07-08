@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Senior Data Scientist
+role: Senior Data Scientist / Machine Learning Engineer
 
 # Organizations/Affiliations
 organizations:
