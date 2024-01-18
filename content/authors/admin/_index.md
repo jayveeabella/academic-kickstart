@@ -10,12 +10,10 @@ authors:
 superuser: true
 
 # Role/position
-role: Senior Data Scientist / Machine Learning Engineer
+role: Senior Machine Learning Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: jayvee.abella@mercuryds.com
-- name: Mercury Data Science
 - name: jayvee.r.abella@gmail.com
   url: ""
 
@@ -23,6 +21,7 @@ organizations:
 #bio: My research interests include 
 
 interests:
+- Designing Machine Learning Systems
 - Structural Bioinformatics
 - Computational Biophysics
 - Biomedical Informatics / Data Science / Machine Learning
@@ -75,5 +74,4 @@ user_groups:
 - Visitors
 ---
 
-Jayvee Abella is currently working for Mercury Data Science. He received his PhD in Computer Science at Rice University under Prof. Lydia Kavraki and Prof. Cecilia Clementi. His thesis focused mainly on the computational modeling, simulation, and analysis of proteins and their structure and dynamics. Jayvee's passion lies in providing informatics and data science solutions to biomedical problems. 
-
+Jayvee Abella has a passion for creating ML/AI based solutions to interesting problems. He received his PhD in Computer Science at Rice University under Prof. Lydia Kavraki and Prof. Cecilia Clementi. His thesis focused mainly on the computational modeling, simulation, and analysis of proteins and their structure and dynamics. He has previously worked as an AI consultant where he helped companies across multiple industries incorporate AI into their business, from strategy and architecture design to model development and deployment. His expertise lies in designing and implementing ML systems, including advanced modeling (time-series, GenAI) and deploying scalable applications. He enjoys basketball, tennis, and karaoke, and loves his dog, Louie. 
